@@ -1,2 +1,2 @@
-# appointment-manager
-appointment manager practice with react
+# Appointment manager
+Appointment manager, practice with react
