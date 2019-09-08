@@ -1,5 +1,5 @@
 {
-  "name": "pacientes-veterinaria",
+  "name": "appointment-manager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
