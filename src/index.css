@@ -1,0 +1,42 @@
+html {
+  min-height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #6CC3D5;
+  min-height: 100%;
+  padding-bottom: 5rem;
+}
+
+header {
+  margin-top: 3rem;
+}
+header h1 {
+  color: white;
+}
+.list-dates .media {
+  border-bottom: 1px solid #5a5a5a;
+  padding-bottom: 3rem;
+}
+
+.list-dates .media:last-of-type{
+  border-bottom: 0;
+}
+.list-dates .media-body p {
+  margin:0;
+}
+.list-dates .media-body button {
+  margin-top: 1rem!important;
+}
+.list-dates .media-body span {
+  font-weight: bold;
+}
+.col-form-label {
+  font-size: 13px;
+}
+
+.btn {
+  width: 20%;
+  text-transform: uppercase;
+}
